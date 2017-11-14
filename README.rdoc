@@ -1,3 +1,5 @@
 = pirate_login
 
 Removes common fields from login - so everyone uses OpenID.
+
+To install just paste into [your_redmine_directory]/plugins.
