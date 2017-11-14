@@ -1,0 +1,3 @@
+= pirate_login
+
+Removes common fields from login - so everyone uses OpenID.
